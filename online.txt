@@ -1,3 +1,5 @@
 This file was created online.
 Testing synchronization between GitHub and local.
 Git learning is fun!
+Local update line 1
+Local update line 2
