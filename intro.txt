@@ -12,3 +12,9 @@
 - Git & GitHub cơ bản
 - SQL cơ bản
 - Python cho scripting
+[Kế hoạch học tập]
+- Ôn chắc Git: branching, rebase, conflict.
+- Làm 2 pet projects (API + CI/CD).
+- Đọc 1 chương/tuần sách clean code.
+- Luyện thuật toán 3 bài/tuần.
+- Viết blog tóm tắt kiến thức đã học.
