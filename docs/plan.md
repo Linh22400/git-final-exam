@@ -10,3 +10,6 @@
 8) Viết blog tổng kết cuối tuần.
 9) Tổng hợp câu hỏi còn vướng để hỏi mentor.
 10) Chuẩn bị demo mini cho tuần sau.
+- Ôn lại git reset/revert qua ví dụ riêng.
+- Viết ghi chú ngắn sau mỗi buổi học.
+- Thử tạo PR nhỏ mỗi ngày.
