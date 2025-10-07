@@ -1,0 +1,5 @@
+Feature-A: Mô tả tính năng mới
+- Mục tiêu: cải thiện trải nghiệm người dùng.
+- Phạm vi: thêm trang giới thiệu, tối ưu menu.
+- Kiểm thử: manual + unit test cho helper.
+- Ghi chú: cần review UI/UX trước khi release.
