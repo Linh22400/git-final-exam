@@ -1,0 +1,14 @@
+[Giới thiệu]
+- Tôi là Nguyễn Hồng Linh, MSSV 224217.
+- Ngành học: Công nghệ thông tin.
+- Mục tiêu nghề nghiệp: Backend/DevOps.
+- Sở trường: C#, Git, Linux cơ bản.
+- Giá trị cá nhân: học hỏi liên tục.
+[Sở thích]
+- Đọc sách kỹ thuật
+- Chạy bộ
+- Chụp ảnh
+[Kỹ năng]
+- Git & GitHub cơ bản
+- SQL cơ bản
+- Python cho scripting
