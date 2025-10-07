@@ -1,4 +1,4 @@
-[Giới thiệu]
+Xin chào, tôi là Nguyễn Hồng Linh
 - Tôi là Nguyễn Hồng Linh, MSSV 224217.
 - Ngành học: Công nghệ thông tin.
 - Mục tiêu nghề nghiệp: Backend/DevOps.
