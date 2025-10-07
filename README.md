@@ -1,0 +1,8 @@
+- Tên đề thi: Git Final Exam.
+-Họ Tên: Nguyễn Hồng Linh
+-MSSV: 224217
+-Ngày làm bài: 7/10/2025
+-Mục tiêu: 
+- Nắm vững quy trình add → commit → push, quản lý nhánh.
+- Thực hành merge/rebase và xử lý conflict cơ bản.
+- Viết commit message rõ ràng, dễ truy vết lịch sử.
